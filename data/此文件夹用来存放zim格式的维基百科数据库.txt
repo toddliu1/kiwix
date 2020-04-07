@@ -1,0 +1,3 @@
+此文件夹用来存放zim格式的维基百科数据库，请到以下地址下载自己所需的语言和学科的zim文件，放到data文件夹下，程序会自动识别，然后在浏览器窗口中展示。
+
+下载地址：http://download.kiwix.org/zim/wikipedia/
